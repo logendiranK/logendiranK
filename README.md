@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Full <br>🌱 I’m currently learning DSA<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
