@@ -41,14 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logendiranK&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-# 🏆 Achievements:
-🏅 Developed multiple full stack applications.<br>
-🚀 Building real-time platforms and interactive web experiences.<br>
-💡 Passionate about solving real-world problems through technology.
-
 ---
 
 # 📫 Connect With Me:
